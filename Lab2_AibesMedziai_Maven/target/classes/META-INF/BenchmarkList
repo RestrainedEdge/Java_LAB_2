@@ -1,0 +1,2 @@
+JMH S 30 edu.ktu.ds.lab2.demo.Benchmark S 65 edu.ktu.ds.lab2.demo.jmh_generated.Benchmark_BstRetainAll_jmhTest S 12 BstRetainAll S 11 AverageTime E A 1 1 1 E E T 3 1 s E E T 3 1 s E E E E E E E M 1 12 elementCount 1 16 xAQNAADAwAAMAADA U 12 MICROSECONDS E E 
+JMH S 30 edu.ktu.ds.lab2.demo.Benchmark S 65 edu.ktu.ds.lab2.demo.jmh_generated.Benchmark_AvlRetainAll_jmhTest S 12 AvlRetainAll S 11 AverageTime E A 1 1 1 E E T 3 1 s E E T 3 1 s E E E E E E E M 1 12 elementCount 1 16 xAQNAADAwAAMAADA U 12 MICROSECONDS E E 
